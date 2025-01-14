@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 //import items from './data'
 import { type } from "@testing-library/user-event/dist/type";
 import Client from './Contentful'
